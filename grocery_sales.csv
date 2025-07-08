@@ -1,0 +1,11 @@
+product_name,product_category,cost_per_unit,sale_price_per_unit,units_sold,total_cost_units_sold,total_revenue
+Milk,Dairy,20,25,100,2000,2500
+Bread,Bakery,15,20,80,1200,1600
+Rice,Grains,25,30,120,3000,3600
+Apples,Produce,5,8,200,1000,1600
+Eggs,Dairy,4,6,150,600,900
+Cheese,Dairy,40,50,60,2400,3000
+Shampoo,Personal Care,35,45,90,3150,4050
+Toothpaste,Personal Care,30,40,85,2550,3400
+Bananas,Produce,3,5,250,750,1250
+Flour,Grains,18,22,110,1980,2420
